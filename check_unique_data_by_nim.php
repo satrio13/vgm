@@ -10,7 +10,7 @@ $data_json = '[
       				  },
       				  {
       					  "nim" : "123",
-      					  "nama" : "layka"
+      					  "nama" : "layla"
       				  }
       			]';
 
