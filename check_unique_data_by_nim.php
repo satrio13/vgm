@@ -1,18 +1,18 @@
 <?php
 $data_json = '[
-      				  {
-      					  "nim" : "123",
-      					  "nama" : "wahyu"
-      				  },
-      				  {
-      					  "nim" : "124",
-      					  "nama" : "dian"
-      				  },
-      				  {
-      					  "nim" : "123",
-      					  "nama" : "layla"
-      				  }
-      			]';
+                    {
+                          "nim" : "123",
+                          "nama" : "wahyu"
+                    },
+                    {
+                          "nim" : "124",
+                          "nama" : "dian"
+                    },
+                    {
+                          "nim" : "123",
+                          "nama" : "layla"
+                    }
+      	]';
 
 $data = json_decode($data_json, true);
 
